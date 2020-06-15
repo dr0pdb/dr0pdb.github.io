@@ -8,4 +8,10 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+Hi! I'm Saurav Tiwary, a Software Engineer and Alumni CSE IIT Patna 2020. 
+
+I use my knowledge of computer science to develop efficient algorithms and softwares to solve challenging problems. Lately, I have also started writing blog posts on technical topics over here.
+
+Recently I have grown a lot of interest towards Distributed systems and Systems programming. I've also been exploring the field of Programming languages and Compilers design and have been trying different paradigms of programming such as Functional Programming in Scala.
+
+I can be reached at [srv.twry@gmail.com](mailto:srv.twry@gmail.com)
