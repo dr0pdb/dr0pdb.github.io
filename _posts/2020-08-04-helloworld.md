@@ -3,7 +3,6 @@ title: Hello World!
 date: 2020-08-04 23:30:00 +0530
 categories: [Non-Technical, Life]
 tags: [hello-world]
-pin: true
 ---
 
 Hello world!
