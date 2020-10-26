@@ -3,7 +3,6 @@ title: LevelDB Internals - A Deep Dive
 date: 2020-09-11 23:30:00 +0530
 categories: [Database-Systems, Storage-Engine]
 tags: [dbsystems, leveldb, kv-stores]
-pin: true
 ---
 
 Hello! Welcome to the deep dive series on the [LevelDB](https://github.com/google/leveldb) internals. LevelDB is an embedded key-value library written in C++ and released open source by Google.
