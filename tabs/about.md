@@ -12,6 +12,9 @@ I am a polyglot developer who is heavily interested in Distributed systems and S
 ### Key Projects
 Over the course of my career, I've worked on the following key projects
 
+#### Personal
+- [**IcecaneDB**](https://github.com/dr0pdb/icecanedb), a distributed SQL database
+
 #### Propietary
 - **Microsoft**'s hiring platform
 - **Mindship**'s generic authentication library
@@ -27,10 +30,10 @@ Over the course of my career, I've worked on the following key projects
 ### Key Events
 - Mar 2021: Started my full time role at Google
 - Mar 2021: Left my role at Microsoft
-- July 2020: Started my first full time job at Microsoft
+- July 2020: Started my first full time role at Microsoft
 - June 2020: Graduated from IIT Patna
-- April 2020: Finished my two month internship at Mindship
-- July 2019: Finished my two month internship at Microsoft
+- April 2020: Completed internship at Mindship
+- July 2019: Completed internship at Microsoft
 - Aug 2018: Successfully completed my Google Summer of Code project
 - July 2016: Started my undergrad curriculum at IIT Patna
 
