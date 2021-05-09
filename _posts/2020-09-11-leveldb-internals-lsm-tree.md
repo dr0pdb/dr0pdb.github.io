@@ -1,7 +1,7 @@
 ---
 title: LevelDB Internals - Log Structured Merge Tree Storage
 date: 2020-10-26 15:00:00 +0530
-categories: [Database-Systems, Storage-Engine]
+categories: [Database Systems, Storage Engine]
 tags: [dbsystems, leveldb, kv-stores, lsm]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: LevelDB Internals - A Deep Dive
 date: 2020-09-11 23:30:00 +0530
-categories: [Database-Systems, Storage-Engine]
+categories: [Database Systems, Storage Engine]
 tags: [dbsystems, leveldb, kv-stores]
 ---
 
