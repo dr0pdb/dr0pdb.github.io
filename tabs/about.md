@@ -7,7 +7,7 @@ Hi! I'm Saurav Tiwary, a software engineer from India. I am currently working at
 
 Previously, I worked for a short tenure at **Microsoft**. Before that, I also worked as an intern at **Microsoft** and **Mindship** during my undergrad years. I also participated as a student developer in **Google Summer of Code 2018** contributing to Fossasia. I graduated with a B.Tech in Computer Science and Engineering from **IIT Patna**.
 
-I am a polyglot developer who is heavily interested in Distributed systems and Systems programming. I like to build and explore distributed storage and networking solutions. I am also interested in Compilers & Language runtimes. Some of my favourite programming languages are Go, Rust, C++ & Java.
+I am a polyglot programmer who is heavily interested in Distributed systems and Databases. I am also interested in Language runtimes & Operating systems. Some of my favourite programming languages are Go, C++, Java & Rust.
 
 ### Key Projects
 Over the course of my career, I've worked on the following key projects
@@ -17,11 +17,9 @@ Over the course of my career, I've worked on the following key projects
 
 #### Propietary
 - **Microsoft**'s hiring platform
-- **Mindship**'s generic authentication library
-- **Mindship**'s staging infrastructure
+- **Mindship**'s authentication library & infrastructure
 
 #### Open Source
-- The [**Linkerd**](https://github.com/linkerd/linkerd2) service mesh control plane
 - The [**Open Event**](https://summerofcode.withgoogle.com/archive/2018/projects/5639603444776960/) project under **FOSSASIA**
 - The [**Kiwix**](https://github.com/kiwix/kiwix-android) Android application
 - The [**Open Data Kit**](https://github.com/getodk/collect) Android application
@@ -37,4 +35,4 @@ Over the course of my career, I've worked on the following key projects
 - Aug 2018: Successfully completed my Google Summer of Code project
 - July 2016: Started my undergrad curriculum at IIT Patna
 
-I can be reached at [srv.twry@gmail.com](mailto:srv.twry@gmail.com)
+I can be reached at srv.twry[at]gmail.com
